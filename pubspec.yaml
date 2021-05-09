@@ -2,7 +2,7 @@ name: flutter_package_allion
 description: A new Flutter package.
 version: 0.0.1
 author: Nimesh Tharuka<tharukakalu@gmail.com>
-homepage:
+homepage: https://github.com/tharukakalu/Flutter.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
